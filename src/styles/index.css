@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* Optional custom tweaks */
+html,
+body {
+  margin: 0;
+  padding: 0;
+  color: #070707;
+}
+
+@layer base {
+  body {
+    @apply antialiased;
+  }
+}
