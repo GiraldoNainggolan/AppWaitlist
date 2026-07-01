@@ -96,6 +96,6 @@ This template is ready to deploy to platforms like:
 
 ## 🪪 License
 
-MIT © 2025 Maria Paz Abarca
+MIT © 2026 Giraldo Nainggolan
 </br>
 Let me know if you’d like to add badges, screenshots, or a theme switcher note for the CLI-based version later.
